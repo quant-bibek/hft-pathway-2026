@@ -1,0 +1,1 @@
+Day 2: Started MIT 18.05 Reading 1 (Counting/Sets) and watched The Cherno C++ Videos 1-2.
