@@ -1,0 +1,1 @@
+Day 3: Mastered Binomial Coefficients (nCr) and Permutations (nPr). Explored the C++ Linker and verified variable memory sizes on M2 ARM architecture.
